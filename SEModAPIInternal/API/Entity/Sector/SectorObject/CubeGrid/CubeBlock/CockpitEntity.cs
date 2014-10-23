@@ -28,7 +28,7 @@ namespace SEModAPIInternal.API.Entity.Sector.SectorObject.CubeGrid.CubeBlock
 		public static string CockpitEntityNamespace = "5BCAC68007431E61367F5B2CF24E2D6F";
 		public static string CockpitEntityClass = "0A875207E28B2C7707366CDD300684DF";
 
-		public static string CockpitGetPilotEntityMethod = "3995E828BFD4F66CBFEF664503DBA3E5";
+		public static string CockpitGetPilotEntityMethod = "73C52CAA421C61DE247F162EA89A301B";
 		public static string CockpitSetPilotEntityMethod = "1BB7956FA537A66315E07C562677018A";
 
 		#endregion
